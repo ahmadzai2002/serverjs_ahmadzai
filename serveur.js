@@ -1,5 +1,5 @@
 const http = require("http");
-const hostname = "192.168.112.167";
+const hostname = "0.0.0.0";
 const port = 8000;
 
 const server = http.createServer();
